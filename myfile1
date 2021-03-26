@@ -1,3 +1,5 @@
 Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, whose development started in the 1970s at the ...
 ‎List of Unix commands · ‎History of Unix · ‎Unix · ‎Unix philosophy.
 Unix is an operating system. It supports multitasking and multi-user functionality. Unix is most widely used in all forms of computing systems such as desktop, laptop, and servers. On Unix, there is a Graphical user interface similar to windows that support easy navigation and support environment.
+Unix and the C were found by AT&T and distributed to government and academic institutions, which led to both being ported to a wider variety of machine families than any other operating system. The main focus that was brought by the developers in this operating system was the Kernel. Unix was considered to be the heart of the operating System.
+
